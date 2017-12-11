@@ -38,8 +38,26 @@ body {
     margin-left: -13.5px;
     transform: rotateZ(-90deg);
 }
-
-.s1{
+.bottom{
+    height: 70px;
+    position: absolute;
+    bottom: 0;
+    z-index: 99;
+}
+.bottom p{
+    height: 70px;
+}
+.bottom p img{
+    height: 70px;
+    position: absolute;
+}
+.bottom p img:nth-of-type(1){
+    left: 0px;
+}
+.bottom p img:nth-of-type(2){
+    left: -90px;
+}
+.s1,.s2,.s3{
     background-image: url(../img/bj.png);
     height: 100%;
 }
@@ -94,7 +112,7 @@ body {
 .s1 .footer{
     color: #01e02b;
     position: absolute;
-    bottom: 0;
+    bottom: 15%;
     left: 0;
     width: 100%;
 }
@@ -102,20 +120,108 @@ body {
     font-size: 18px;
     margin-bottom: 15px;
 }
-.s1 .footer p:nth-of-type(1){
+.s1 .footer p{
     font-size: 16px;
     margin-bottom: 40px;
 }
-.s1 .footer p:nth-of-type(2){
-    height: 70px;
+.s2{
+    color: #00f0c3;
 }
-.s1 .footer p img{
-    height: 70px;
+.s2 h2{
+    padding-top: 20%;
+    font-size: 24px;
+    padding-bottom: 30px;
+}
+.s2 h2::before,
+.s2 h2::after{
+    content: "";
+    background-size: cover;
+    width: 83px;
+    height: 20px;
+    display: inline-block;
     position: absolute;
+    top:90px;
 }
-.s1 .footer p img:nth-of-type(1){
-    left: 0px;
+.s2 h2:before{
+    background-image: url(../img/14.png);
+    left: 45px;
 }
-.s1 .footer p img:nth-of-type(2){
-    left: -90px;
+.s2 h2:after{
+    background-image: url(../img/13.png);
+    right: 45px;
+}
+.s2 h2 small{
+    margin-top: 10px;
+    font-size: 14px;
+    display: block;
+    letter-spacing: 5px;
+}
+.s2 img{
+    width: 80%;
+}
+.s2 .main{
+    position: relative;
+}
+.s2 .text{
+    position: absolute;
+    padding: 35px 30px;
+    width: 80%;
+    top:0;
+    left:0;
+    right: 0;
+    margin: auto;
+    text-align: left;
+    font-size: 14px;
+}
+.s2 .text p{
+    margin-bottom: 10px;
+    letter-spacing: 5px;
+}
+.s2 span{
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    width: 120px;
+    height: 30px;
+    margin-left: -60px;
+    background: -webkit-linear-gradient(left, #00e7f7 , #01e02b); /* Safari 5.1 - 6.0 */
+    background: -o-linear-gradient(right, #00e7f7, #01e02b); /* Opera 11.1 - 12.0 */
+    background: -moz-linear-gradient(right, #00e7f7, #01e02b); /* Firefox 3.6 - 15 */
+    background: linear-gradient(to right, #00e7f7 , #01e02b); /* 标准的语法 */
+    color: #000000;
+    line-height: 30px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+.s3{
+    color: #00f0c3;
+}
+.s3 h2{
+    padding-top: 20%;
+    font-size: 24px;
+    padding-bottom: 30px;
+}
+.s3 h2::before,
+.s3 h2::after{
+    content: "";
+    background-size: cover;
+    width: 83px;
+    height: 20px;
+    display: inline-block;
+    position: absolute;
+    top:90px;
+}
+.s3 h2:before{
+    background-image: url(../img/14.png);
+    left: 45px;
+}
+.s3 h2:after{
+    background-image: url(../img/13.png);
+    right: 45px;
+}
+.s2 h2 small{
+    margin-top: 10px;
+    font-size: 14px;
+    display: block;
+    letter-spacing: 5px;
 }
