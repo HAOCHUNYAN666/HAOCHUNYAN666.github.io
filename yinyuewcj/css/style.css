@@ -25,7 +25,32 @@ body {
     background: #fff;
 }
 
-
+/*-----音乐按钮样式------*/
+#mp3btn{
+    position: absolute;
+    right: 5%;
+    top: 5%;
+    z-index: 100;
+    width: 30px;
+    height: 30px;
+    background: #00000085;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 30px;
+    border: 3px solid #757575bd;
+    animation: mp3btnkey 2.5s infinite linear;
+}
+@keyframes mp3btnkey {
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}
+#mp3btn img{
+    width: 10px;
+}
 /*-----自定义样式------*/
 
 /*向下翻页的按钮*/
@@ -68,31 +93,29 @@ body {
     width: 35px;
     top: 120px;
     left: 50px;
-    animation: swing infinite;
 }
 .s1 .header img:nth-of-type(2){
     width: 65px;
     top: 90px;
     right: 40px;
-    animation: swing infinite;
 }
 .s1 .header img:nth-of-type(3){
      width: 55px;
      bottom: 180px;
      left:35px;
-    animation: swing infinite;
  }
 .s1 .header img:nth-of-type(4){
      width: 50px;
      bottom: 210px;
      right:50px;
-    animation: swing infinite;
  }
+.swing{
+    transform-origin: center;
+}
 .s1 .header img:nth-of-type(5){
     left:50%;
     top: 25%;
     width: 60%;
-    animation: pulse infinite;
     margin-left: -30%;
 }
 .s1 .main{
@@ -180,7 +203,6 @@ body {
 }
 .s2 .text p{
     margin-bottom: 10px;
-    letter-spacing: 5px;
 }
 .s2 span{
     position: absolute;
