@@ -1,4 +1,5 @@
 var swiper = new Swiper('.swiper-container', {
+    effect: 'cube',
     direction: 'vertical',
     // 如果需要分页器
     pagination: {
