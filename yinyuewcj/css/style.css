@@ -191,7 +191,7 @@ body {
     color: #00f0c3;
 }
 .s2 h2{
-    padding-top: 20%;
+    padding-top: 10%;
     font-size: 24px;
     padding-bottom: 30px;
 }
@@ -203,7 +203,7 @@ body {
     height: 20px;
     display: inline-block;
     position: absolute;
-    top:90px;
+    top:45px;
 }
 .s2 h2:before{
     background-image: url(../img/14.png);
@@ -259,7 +259,7 @@ body {
     color: #00f0c3;
 }
 .s3 h2{
-    padding-top: 20%;
+    padding-top: 10%;
     font-size: 24px;
     padding-bottom: 30px;
 }
@@ -271,7 +271,7 @@ body {
     height: 20px;
     display: inline-block;
     position: absolute;
-    top:90px;
+    top:45px;
 }
 .s3 h2:before{
     background-image: url(../img/14.png);
@@ -291,89 +291,89 @@ body {
     position: absolute;
     width: 150px;
     height: 150px;
-    top: 40%;
+    top: 30%;
     left: 30%;
 }
 .s3 .main img:nth-of-type(2){
      position: absolute;
      width: 75px;
      height: 75px;
-     top: 29%;
+     top: 19%;
      left: 16%;
  }
 .s3 .main img:nth-of-type(3){
     position: absolute;
     width: 75px;
     height: 75px;
-    top: 29%;
+    top: 19%;
     right: 16%;
 }
 .s3 .main img:nth-of-type(4){
     position: absolute;
     width: 75px;
     height: 75px;
-    top: 46%;
+    top: 38%;
     left:2%;
 }
 .s3 .main img:nth-of-type(5){
     position: absolute;
     width: 75px;
     height: 75px;
-    top: 46%;
+    top: 38%;
     right:2%;
 }
 .s3 .main img:nth-of-type(6){
     position: absolute;
     width: 75px;
     height: 75px;
-    top: 63%;
+    top: 54%;
     left: 16%;
 }
 .s3 .main img:nth-of-type(7){
     position: absolute;
     width: 75px;
     height: 75px;
-    top: 63%;
+    top: 54%;
     right: 16%;
 }
 .s3 .main h3{
     position: absolute;
-    top: 49%;
+    top: 39%;
     left: 39%;
 }
 .s3 .main h4:nth-of-type(1){
     position: absolute;
-    top: 33%;
+    top: 23%;
     left: 21%;
 }
 .s3 .main h4:nth-of-type(2){
     position: absolute;
-    top: 33%;
+    top: 23%;
     right: 21%;
 }
 .s3 .main h4:nth-of-type(3){
      position: absolute;
-     top: 50%;
+     top: 40%;
      left: 7%;
  }
 .s3 .main h4:nth-of-type(4){
     position: absolute;
-    top: 50%;
+    top: 40%;
     right: 7%;
 }
 .s3 .main h4:nth-of-type(5){
     position: absolute;
-    top: 67%;
+    top: 57%;
     left: 21%;
 }
 .s3 .main h4:nth-of-type(6){
     position: absolute;
-    top: 67%;
+    top: 57%;
     right: 21%;
 }
 .s3 p{
     position: absolute;
-    bottom: 13%;
+    top: 74%;
     width: 68%;
     margin-left: 16%;
     letter-spacing: 1px;
@@ -386,7 +386,7 @@ body {
     color: #00f0c3;
 }
 .s4 h2{
-    padding-top: 20%;
+    padding-top: 10%;
     font-size: 24px;
     padding-bottom: 30px;
 }
@@ -398,7 +398,7 @@ body {
     height: 20px;
     display: inline-block;
     position: absolute;
-    top:90px;
+    top:45px;
 }
 .s4 h2:before{
     background-image: url(../img/14.png);
@@ -419,7 +419,7 @@ body {
 }
 .s4 .main .text{
     position: absolute;
-    top: 26%;
+    top: 21%;
     left: 10%;
     width: 80%;
     text-align: left;
@@ -504,7 +504,7 @@ body {
     color: #00f0c3;
 }
 .s5 h2{
-    padding-top: 20%;
+    padding-top: 10%;
     font-size: 24px;
     padding-bottom: 30px;
 }
@@ -516,7 +516,7 @@ body {
     height: 20px;
     display: inline-block;
     position: absolute;
-    top:90px;
+    top:45px;
 }
 .s5 h2:before{
     background-image: url(../img/14.png);
@@ -558,7 +558,7 @@ body {
 }
 .s5 div:nth-of-type(1){
      position: absolute;
-     top: 25%;
+     top: 20%;
      left: -10%;
  }
 .s5 div:nth-of-type(1) div{
@@ -568,7 +568,7 @@ body {
 }
 .s5 div:nth-of-type(2){
     position: absolute;
-    top: 25%;
+    top: 20%;
     right: -10%;
 }
 .s5 div:nth-of-type(2) div{
@@ -578,7 +578,7 @@ body {
 }
 .s5 div:nth-of-type(3){
     position: absolute;
-    top: 56%;
+    top: 50%;
     left: -10%;
 }
 .s5 div:nth-of-type(3) div{
@@ -588,7 +588,7 @@ body {
 }
 .s5 div:nth-of-type(4){
     position: absolute;
-    top: 56%;
+    top: 50%;
     right: -10%;
 }
 .s5 div:nth-of-type(4) div{
@@ -600,7 +600,7 @@ body {
     color: #00f0c3;
 }
 .s6 h2{
-    padding-top: 20%;
+    padding-top: 10%;
     font-size: 24px;
     padding-bottom: 30px;
 }
@@ -612,7 +612,7 @@ body {
     height: 20px;
     display: inline-block;
     position: absolute;
-    top:90px;
+    top:45px;
 }
 .s6 h2:before{
     background-image: url(../img/14.png);
@@ -650,7 +650,7 @@ body {
 .s6 .one{
     position: absolute;
     left: 6%;
-    top: 22%;
+    top: 18%;
 }
 .s6 .one img:nth-of-type(1){
     width: 25px;
@@ -687,7 +687,7 @@ body {
 .s6 .two{
      position: absolute;
      left: 6%;
-     top: 44%;
+     top: 40%;
  }
 .s6 .two img:nth-of-type(1){
     width: 25px;
@@ -724,7 +724,7 @@ body {
 .s6 .three{
     position: absolute;
     left: 6%;
-    top: 66%;
+    top: 62%;
 }
 .s6 .three img:nth-of-type(1){
     width: 25px;
@@ -762,7 +762,7 @@ body {
     color: #00f0c3;
 }
 .s7 h2{
-    padding-top: 20%;
+    padding-top: 10%;
     font-size: 24px;
     padding-bottom: 30px;
 }
@@ -774,7 +774,7 @@ body {
     height: 20px;
     display: inline-block;
     position: absolute;
-    top:90px;
+    top:45px;
 }
 .s7 h2:before{
     background-image: url(../img/14.png);
@@ -796,7 +796,7 @@ body {
 .s7 .main{
     position: absolute;
     left:20%;
-    top: 30%;
+    top: 24%;
 }
 .s7 .main p input{
     width: 230px;
@@ -813,6 +813,6 @@ body {
 .s7 .text{
     font-size: 16px;
     position: absolute;
-    top: 70%;
+    top: 65%;
     left: 21%;
 }
