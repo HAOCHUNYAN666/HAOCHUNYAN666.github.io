@@ -79,6 +79,8 @@ body {
     }
 }
 .bottom{
+    width: 100%;
+    overflow: hidden;
     height: 70px;
     position: absolute;
     bottom: 0;
