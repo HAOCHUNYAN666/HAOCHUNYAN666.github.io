@@ -232,7 +232,7 @@ body {
     right: 0;
     margin: auto;
     text-align: left;
-    font-size: 14px;
+    font-size: 12px;
 }
 .s2 .text p{
     margin-bottom: 10px;
@@ -629,7 +629,7 @@ body {
 .s6 .left{
     position: absolute;
     left: 10%;
-    height: 400px;
+    height: 58%;
 }
 .s6 .left img{
     height: 100%;
