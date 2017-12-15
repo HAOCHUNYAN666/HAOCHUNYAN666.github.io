@@ -1,0 +1,189 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body {
+    position: relative;
+    height: 100%;
+}
+body {
+    background: #eee;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color:#000;
+    margin: 0;
+    padding: 0;
+}
+.swiper-container {
+    width: 100%;
+    height: 100%;
+}
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+}
+.s1,.s2,.s3{
+    background-image: url(../img/bg.jpg);
+    width: 100%;
+    height: 100%;
+    background-size:cover;
+    color: #ffffff;
+}
+/*向下翻页的按钮*/
+.swiper-button-next{
+    position: absolute;
+    top: auto;
+    width: 23px;
+    height: 34px;
+    bottom: 3%;
+    left: 50%;
+    right: auto;
+    margin-left: -13.5px;
+    transform: rotateZ(-90deg);
+    z-index: 100;
+    animation: bottombtn 1.5s infinite;
+    opacity: 1;
+}
+@keyframes bottombtn {
+    0%{
+        bottom: 3%;
+        opacity: 1;
+    }
+    100%{
+        bottom: 6%;
+        opacity: 0;
+    }
+}
+/*-----音乐按钮样式------*/
+#mp3btn{
+    position: absolute;
+    right: 5%;
+    top: 5%;
+    z-index: 100;
+    width: 30px;
+    height: 30px;
+    background: #00000085;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 30px;
+    border: 3px solid #757575bd;
+    animation: mp3btnkey 2.5s infinite linear;
+}
+@keyframes mp3btnkey {
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}
+#mp3btn img{
+    width: 10px;
+}
+/*-------s1样式-------*/
+.s1 img:nth-of-type(1){
+    width: 24%;
+    position: absolute;
+    top: 15%;
+    left: 38%;
+}
+.s1 img:nth-of-type(2){
+    width: 36%;
+    position: absolute;
+    top: 17%;
+    left: 32%;
+}
+.s1 .main{
+    width: 90px;
+    margin-left: -45px;
+    position: absolute;
+    top: 74%;
+    left: 50%;
+}
+.s1 .bottom{
+    width: 148px;
+    font-weight: bold;
+    position: absolute;
+    top: 78%;
+    left: 50%;
+    margin-left: -74px;
+}
+.s1 .footer{
+    width: 212px;
+    font-size: 12px;
+    color: #cecece;
+    position: absolute;
+    top: 82%;
+    left:50%;
+    margin-left: -106px;
+}
+/*-------top通用样式-------*/
+.top{
+    position: absolute;
+    top: 8%;
+    left: 50%;
+    margin-left: -59px;
+}
+.top img{
+    width: 75px;
+    position: absolute;
+    top: -68%;
+}
+.top img:nth-of-type(1){
+    left: -60%;
+    animation: topleft 1.5s infinite linear alternate;
+}
+@keyframes topleft {
+    0%{
+        left:-60%;
+    }
+    100%{
+        left:-55%;
+    }
+}
+.top img:nth-of-type(2){
+    right: -60%;
+    animation: topright 1.5s infinite linear alternate;
+}
+@keyframes topright {
+    0%{
+        right:-60%;
+    }
+    100%{
+        right:-55%;
+    }
+}
+.top p{
+    width: 118px;
+    font-size: 24px;
+}
+/*-------bg通用样式-------*/
+.bg img:nth-of-type(1){
+    width: 100%;
+    position: absolute;
+    top: 25%;
+    left: 0%;
+}
+.bg img:nth-of-type(2){
+    width: 16%;
+    position: absolute;
+    top:26%;
+    left: 14%;
+}
+.bg img:nth-of-type(3){
+     width: 12%;
+     position: absolute;
+     top:77%;
+     left: 10%;
+ }
+.bg img:nth-of-type(4){
+    width: 20%;
+    position: absolute;
+    top: 75%;
+    right: 10%;
+}
+.swing{
+    transform-origin: center;
+}
