@@ -1,0 +1,64 @@
+.containt-top,.containt-bottom{
+    background-image: url(../images/box-bg.png);
+    border: 1px #c1ab9c solid;
+    width: 566px;
+    border-radius: 15px;
+    float: right;
+}
+.containt-top{
+	height: 166px;
+	margin-top: 34px;
+	margin-bottom: 18px;
+}
+.containt-bottom{
+	height: 352px;
+}
+.top-txt,.top-text{
+	margin-left: 40px;
+	margin-right: 50px;
+}
+.top-txt{
+	font-family: Arial;
+    font-size: 35px;
+    font-weight: bolder;
+    color: #9f5827;
+    margin-top: 28px;
+    margin-bottom: 10px;
+}
+.top-text{
+	font-family: Arial;
+    font-size: 13px;
+    color: #70635b;
+    margin-bottom: 14px;
+    letter-spacing: -0.2px;
+}
+.bottom-txt,.team,.bottom-text1{
+	margin-left: 40px;
+	margin-right: 50px;
+}
+.bottom-txt{
+	font-family: Arial;
+    font-size: 23px;
+    font-weight: bolder;
+    color: #9f5827;
+    margin-top: px;
+    margin-bottom: px;
+    letter-spacing: -1px;
+    margin-top: 26px;
+    margin-bottom: 16px;
+}
+.team-img{
+	width: 108px;
+	height: 88px;
+	margin-bottom: 20px;
+	margin-right: 22px;
+}
+.bottom-text{
+	width: 346px;
+}
+.bottom-text,.bottom-text1{
+	font-family: Arial;
+    font-size: 13px;
+    color: #70635b;
+    letter-spacing: -0.2px;
+}

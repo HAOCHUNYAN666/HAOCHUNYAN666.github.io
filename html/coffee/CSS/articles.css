@@ -1,0 +1,48 @@
+.right{
+	background-image: url(../images/box-bg.png);
+    border: 1px #c1ab9c solid;
+    width: 476px;
+    height: 548px;
+    border-radius: 15px;
+    float: right;
+    margin-top: 30px;
+    padding-left: 40px;
+    padding-right: 50px;
+}
+.box-txt{
+	margin: 16px 0px;
+	font-family: Arial;
+    font-size: 35px;
+    font-weight: bolder;
+    color: #9f5827;
+}
+.box-text,.box-text1{
+	width: 348px;
+	margin-left: 18px;
+	font-family: Arial;
+    font-size: 12px;
+    color: #70635b;
+    letter-spacing: -0.4px;
+}
+.box-text1{
+	margin-top: 5px;
+}
+.box-text1 a{
+	color: #9f5827;
+}
+.box-text1 a:hover{
+	text-decoration: none;
+}
+.box-txt1{
+	font-family: Arial;
+    font-size: 14px;
+    letter-spacing: -0.4px;
+    margin-top: 15px;
+    font-weight: bolder;
+}
+.box-txt1 a{
+	color: #9f5827;
+}
+.box-txt1 a:hover{
+	text-decoration: none;
+}

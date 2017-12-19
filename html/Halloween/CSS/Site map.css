@@ -1,0 +1,37 @@
+.p1{
+	color: #bde0ff;
+	font-family: Calibri;
+	font-size: 27px;
+	letter-spacing: 0.5px;
+	margin-bottom: 10px;
+}
+.p2{
+	color: #ffffff;
+	width: 598px;
+	font-family: Calibri;
+	font-size: 15px;
+	letter-spacing: -0.5px;
+	line-height: 17px;
+	margin-bottom: 8px;
+}
+.nav1{
+	margin-left: 18px;
+	list-style-image: url(../images/arrow1.gif);
+	margin-bottom: 12px;
+}
+.nav2{
+	margin-left: 24px;
+	list-style-image: url(../images/arrow2.gif);
+}
+.nav1 a,.nav2 a{
+	color: #bde0ff;
+	font-family: Calibri;
+	font-size: 13px;
+	letter-spacing: 0.5px;
+}
+.nav1 a:hover{
+	text-decoration: none;
+}
+.nav2 a:hover{
+	text-decoration: none;
+}

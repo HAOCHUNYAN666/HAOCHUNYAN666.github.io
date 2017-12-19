@@ -1,0 +1,48 @@
+.box{
+	background-image: url(../images/box-bg.png);
+    border: 1px #c1ab9c solid;
+    width: 476px;
+    height: 524px;
+    border-radius: 15px;
+    float: right;
+    margin-top: 30px;
+    padding-left: 40px;
+    padding-right: 50px;
+}
+.p1{
+	font-family: Arial;
+    font-size: 35px;
+    font-weight: bolder;
+	letter-spacing: 0.5px;
+	color: #9f5827;
+    margin-top: 27px;
+    margin-bottom: 10px;
+}
+.p2{
+	color:#70635b;
+	width: 482px;
+	font-family: Arial;
+	font-size: 13px;
+	letter-spacing: -0.5px;
+	line-height: 15px;
+	margin-bottom: 14px;
+}
+.nav1{
+	margin-bottom: 16px;
+}
+.nav2{
+	margin-left: 24px;
+}
+.nav1 a,.nav2 a{
+	color: #9f5827;
+	font-family: Arial;
+	font-size: 13px;
+	font-weight: bolder;
+	letter-spacing: 0.5px;
+}
+.nav1 a:hover{
+	text-decoration: none;
+}
+.nav2 a:hover{
+	text-decoration: none;
+}

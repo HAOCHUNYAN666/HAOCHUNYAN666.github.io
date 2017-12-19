@@ -1,0 +1,52 @@
+.p1{
+	color: #bde0ff;
+	font-family: Calibri;
+	font-size: 22px;
+	letter-spacing: 0.5px;
+	margin-bottom: 22px;
+	padding-top: 10px;
+}
+.p2 a{
+	color: #ffffff;
+	text-decoration: none;
+}
+.p2 a:hover{
+	text-decoration: underline;
+}
+.p2{
+	color: #ffffff;
+	width: 450px;
+	font-family: Calibri;
+	font-size: 16px;
+	letter-spacing: -0.5px;
+	line-height: 15px;
+	font-weight: bold;
+	margin-bottom: 2px;
+}
+.p3{
+	color: #ffffff;
+	width: 450px;
+	font-family: Calibri;
+	font-size: 15px;
+	letter-spacing: -0.4px;
+	line-height: 17px;
+	margin-bottom: 2px;
+}
+.p4{
+	width: 450px;
+	font-family: Calibri;
+	font-size: 15px;
+	letter-spacing: -0.4px;
+	line-height: 17px;
+	margin-bottom: 26px;
+}
+.p4 a{
+	color: red;
+}
+.p4 a:hover{
+	text-decoration: none;
+}
+.box-img{
+	margin-right: 26px;
+}
+

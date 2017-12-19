@@ -1,0 +1,102 @@
+/*-----------通用样式------------*/
+body,ul,li,p,h1,h2,h3{
+	margin: 0px;
+	padding: 0px;
+}
+.clearfix:before,
+.clearfix:after{
+	content: " ";
+	display: table;
+	clear: both;
+}
+body{
+	background-color: #000000;
+}
+.header,.banner,.containt,.footer{
+	width: 1000px;
+	margin: 0 auto;
+}
+.left{
+	float: left;
+}
+.list{
+	list-style: none;
+}
+/*-----------通用样式------------*/
+
+/*-----------header样式------------*/
+.header{
+	background: url(../images/header-bg.jpg);
+	height: 285px;
+}
+.logo{
+	padding-top: 33px;
+	padding-bottom: 31px;
+	margin-left: 30px;
+}
+.nav{
+	padding-left: 26px;
+}
+.nav li{
+	float: left;
+}
+.nav-btn1,.nav-btn2,.nav-btn3,.nav-btn4{
+	padding-right: 46px;
+}
+.nav a{
+	display: block;
+	height: 53px;
+}
+/*-----------header样式------------*/
+
+/*-----------containt样式------------*/
+.containt{
+	background: url(../images/containt-bg.png);
+	height: 484px;
+	position: relative;
+}
+.containt-top,.containt-center,.containt-bottom{
+	margin-left: 47px;
+}
+.containt-top{
+	height: 16px;
+}
+.containt-center{
+	background: url(../images/box-bg.png);
+	height: 450px;
+	width: 643px;
+	padding-left: 40px;
+}
+.containt-img{
+	position: absolute;
+	top:40px;
+	left: 684px;
+}
+/*-----------containt样式------------*/
+
+/*-----------footer样式------------*/
+.footer{
+	background: url(../images/footer-bg.jpg);
+	height: 80px;
+}
+.footer p{
+	color: #7d7e82;
+	font-family: Calibri;
+	font-size: 15px;
+	letter-spacing: -0.5px;
+}
+.footer p a{
+	color: #678497;
+}
+.txt{
+	margin-left: 86px;
+	padding-top: 30px;
+}
+.text{
+	margin-left: 178px;
+	padding-bottom: 26px;
+}
+.footer a:hover{
+	text-decoration: none;
+}
+/*-----------footer样式------------*/

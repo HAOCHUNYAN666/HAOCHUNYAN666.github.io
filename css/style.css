@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font: 12px "宋体", "Arial Narrow", HELVETICA;
+    color: #3F3E3C;
+    line-height: 1.5;
+    background: url(../img/bg.jpg) repeat #B29C77;
+    position: relative;
+}
+article{
+    max-width: 960px;
+    margin:auto;
+    border-left:#b29c77 10px solid;
+    border-right:#b29c77 10px solid;
+    box-shadow: 0px -4px 6px 4px #726758;
+    background:#E3D6C3;
+    overflow:hidden;
+}
+/*-----header样式------*/
+header {
+    width: 100%;
+    background:url(../img/header.jpg) no-repeat center #E3D6C3;
+    background-size: 100% 100%;
+    min-height: 290px;
+    position:relative;
+    margin-bottom: 30px;
+}
+.toptitle{
+    position: absolute;
+    left: 25%;
+    top: 35%;
+    /*left: 233px;*/
+    /*top: 89px;*/
+}
+.toptitle h1{
+    color:#9E6B25;
+    font: 24px "微软雅黑", "Microsoft YaHei", Arial, Helvetica, sans-serif;
+}
+.byline{
+    color:#f2e4d1;
+    text-align:right;
+    margin-top:20px;
+    font-size:14px;
+}
+.sign{
+    text-align:right;
+    margin:30px 80px 0;
+    color:#7C7B77
+}
+
+/*-----left样式------*/
+.leftbox,.leftbottom{
+    margin: 0px 10px;
+}
+.leftbox h2,.leftbottom h2,.rightbox h2{
+    background:url(../img/tp.jpg) repeat-x ;
+    color:#8B745C;
+    font-size:12px;
+    font-family: "宋体",sans-serif;
+    padding:5px;
+    border:#F7F3EE 1px solid
+}
+.box{
+    background:#F7F3EE;
+    border:#B19C76 1px solid;
+    margin-bottom:10px
+}
+.leftbox .photo{
+    width: 100%;
+    display: block;
+    margin: 0px 0px 20px 0px;
+    padding: 0px 20px;
+    border-radius: 50%;
+}
+/*@keyframes photoanimation {*/
+    /*0%{*/
+        /*border-radius: 50%;*/
+    /*}*/
+    /*100%{*/
+        /*border-radius: 0;*/
+    /*}*/
+/*}*/
+.leftbox{
+    padding-bottom:10px
+}
+.photo{
+    display:block;
+    margin:10px auto
+}
+.leftbox p{
+    text-indent:2em;
+    color:#917F5F;
+    line-height:24px
+}
+.leftbottom p{
+    text-indent:2em;
+    color:#917F5F;
+    line-height:24px;
+    padding: 0px 10px;
+}
+/*-----right样式------*/
+.rightbox{
+    margin-right: 10px;
+}
+.rightbox .row .col-md-4 a{
+    height: 200px;
+    overflow: hidden;
+    display: block;
+}
+.rightbox .row{
+    margin: 0px;
+}
+.rightbox .row .col-md-4{
+    margin-bottom: 30px;
+}
+.rightbox .row .col-md-4 a img{
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.rightbox .row .col-md-4:nth-of-type(1)a img,.rightbox .row .col-md-4:nth-of-type(2) a img{
+    margin-top: -50px;
+}
+/*-----音乐按钮样式------*/
+#mp3btn{
+    position: absolute;
+    right: 5%;
+    top: 5%;
+    z-index: 100;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 30px;
+    animation: mp3btnkey 2.5s infinite linear;
+}
+@keyframes mp3btnkey {
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}
+#mp3btn img{
+    width: 10px;
+    line-height:30px;
+}

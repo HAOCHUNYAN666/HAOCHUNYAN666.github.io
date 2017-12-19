@@ -1,0 +1,102 @@
+.containt{
+    margin-bottom: 70px;
+}
+.containt-top,.containt-bottom{
+    background-image: url(../images/box-bg.png);
+    border: 1px #c1ab9c solid;
+    width: 566px;
+    height: 300px;
+    border-radius: 15px;
+    float: right;
+}
+.containt-top{
+    margin-top: 30px;
+    margin-bottom: 24px;
+}
+.top-left-txt,.top-left-text{
+    width: 334px;
+}
+.top-left{
+    padding-left: 42px;
+}
+.top-left-txt{
+    font-family: Arial;
+    font-size: 35px;
+    font-weight: bolder;
+    color: #9f5827;
+    margin-top: 28px;
+    margin-bottom: 14px;
+}
+.top-left-text{
+    font-family: Arial;
+    font-size: 13px;
+    color: #70635b;
+    margin-bottom: 14px;
+    letter-spacing: -1px;
+}
+.top-left-text a{
+    color: #9f5827;
+}
+.top-left-text a:hover{
+    text-decoration: none;
+}
+.top-right{
+    margin-left: 36px;
+}
+.top-right-txt{
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: bolder;
+    color: #9f5827;
+    margin-top: 20PX;
+    margin-bottom: 22px;
+}
+.top-right-img{
+    background-image: url(../images/img-wrapper1.png);
+    width: 108px;
+    height: 90px;
+    margin-bottom: 20px;
+}
+.jpg{
+    padding-top: 6px;
+    padding-left: 6px;
+}
+.top-right-text{
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: bolder;
+    color: #9f5827;
+    margin-left: 60px;
+}
+.containt-bottom-txt,.containt-bottom-text,.containt-bottom-text1{
+    padding: 0px 40px;
+}
+.containt-bottom-txt{                                                        
+    font-family: Arial;
+    font-size: 23px;
+    font-weight: bolder;
+    color: #9f5827;
+    margin-top: 30px;
+    margin-bottom: 16px;
+    letter-spacing: -1px;
+}
+.containt-bottom-text1{
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bolder;
+    margin-bottom: 6px;
+    letter-spacing: -1px;
+}
+.containt-bottom-text{
+    font-family: Arial;
+    font-size: 13px;
+    color: #70635b;
+    margin-bottom: 14px;
+    letter-spacing: -1px;
+}
+.containt-bottom-text1 a{
+    color: #9f5827;
+}
+.containt-bottom-text1 a:hover{
+    text-decoration: none;
+}
