@@ -2,73 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="276ae8c4-951e-44c8-ba99-53d0aa42ea3a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/style.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mutualselection/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mutualselection/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mutualselection/.idea/mutualselection.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mutualselection/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mutualselection/css/animate.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mutualselection/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mutualselection/img/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mutualselection/img/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mutualselection/img/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mutualselection/img/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mutualselection/img/bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mutualselection/img/musicIcon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mutualselection/img/s1center.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mutualselection/img/s2box.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mutualselection/img/s2left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mutualselection/img/s2right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mutualselection/img/shuangxuanhui.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mutualselection/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mutualselection/js/swiper.animate1.0.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mutualselection/js/swiper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mutualselection/mp3/song.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/.idea/css/animate.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/.idea/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/.idea/swipercdn.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/img/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/img/10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/img/11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/img/12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/img/13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/img/14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/img/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/img/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/img/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/img/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/img/7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/img/8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/img/9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/img/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/img/bj.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/img/musicIcon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/img/s3bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/img/s3yuan.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/img/s41.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/img/s42.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/img/s42016bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/img/s42017bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/img/s4bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/img/s4small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/img/s51.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/img/s52.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/img/s53.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/img/s54.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/img/s5gb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/img/s61.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/img/s62.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/img/s63.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/img/s6left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/js/swiper.animate1.0.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/js/swiper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yinyuewcj/mp3/bg.mp3" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -86,8 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="681">
-              <caret line="106" column="55" lean-forward="false" selection-start-line="106" selection-start-column="55" selection-end-line="106" selection-end-column="55" />
+            <state relative-caret-position="252">
+              <caret line="7" column="53" lean-forward="false" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -96,7 +29,7 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
+            <state relative-caret-position="4176">
               <caret line="116" column="23" lean-forward="false" selection-start-line="116" selection-start-column="23" selection-end-line="116" selection-end-column="23" />
               <folding />
             </state>
@@ -161,6 +94,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -172,8 +107,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -213,24 +146,26 @@
       <updated>1513563660696</updated>
       <workItem from="1513563662078" duration="9497000" />
       <workItem from="1513679745719" duration="5433000" />
+      <workItem from="1513852943658" duration="46000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14930000" />
+    <option name="totallyTimeSpent" value="14976000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -261,6 +196,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4176">
+          <caret line="116" column="23" lean-forward="false" selection-start-line="116" selection-start-column="23" selection-end-line="116" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/style.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="10" column="2" lean-forward="false" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2412">
           <caret line="67" column="16" lean-forward="false" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="16" />
           <folding />
@@ -279,7 +238,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1404">
           <caret line="39" column="10" lean-forward="false" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -287,26 +245,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="15" column="16" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="174" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yinyuewcj/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yinyuewcj/.idea/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/yinyuewcj/index.html" />
+    <entry file="file://$PROJECT_DIR$/yinyuewcj/.idea/css/style.css" />
     <entry file="file://$PROJECT_DIR$/js/winternetizer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2700">
@@ -314,35 +257,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mutualselection/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="194" column="65" lean-forward="true" selection-start-line="193" selection-start-column="4" selection-end-line="194" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mutualselection/js/swiper.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="45" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mutualselection/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mutualselection/index.html" />
+    <entry file="file://$PROJECT_DIR$/mutualselection/js/swiper.js" />
+    <entry file="file://$PROJECT_DIR$/mutualselection/css/style.css" />
     <entry file="file://$USER_HOME$/Desktop/23-blog（梅花）/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="27" column="59" lean-forward="true" selection-start-line="27" selection-start-column="59" selection-end-line="27" selection-end-column="59" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -350,7 +271,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="303">
           <caret line="62" column="26" lean-forward="false" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -364,27 +284,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
+        <state relative-caret-position="4176">
           <caret line="116" column="23" lean-forward="false" selection-start-line="116" selection-start-column="23" selection-end-line="116" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/郝春彦/从头开始/13/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4212">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1506495414000" expanded="false" signature="1073:1125" ph="..." />
-            <marker date="1506495414000" expanded="true" signature="1126:1491" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://E:/郝春彦/从头开始/13/index.html" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="681">
-          <caret line="106" column="55" lean-forward="false" selection-start-line="106" selection-start-column="55" selection-end-line="106" selection-end-column="55" />
+        <state relative-caret-position="252">
+          <caret line="7" column="53" lean-forward="false" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
           <folding />
         </state>
       </provider>
